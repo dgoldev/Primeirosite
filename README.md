@@ -42,9 +42,3 @@ HTML
 <br><br><br><br><br><br><br>
 	</body>
 </html>
-
-CSS
-body{
-
-	background: rgb(204, 255, 255);
-}
